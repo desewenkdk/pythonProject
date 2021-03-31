@@ -9,6 +9,8 @@ def print_hi(name, text):
     print(f'Hello, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print(f'Hello, {text}')
     print('Hello, World 3')
+
+    print("Hello world 4")
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('WORLD', 'WORLD2')

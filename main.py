@@ -11,6 +11,7 @@ def print_hi(name, text):
     print('Hello, World 3')
 
     print("Hello world 4")
+    print("Hello World 5")
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('WORLD', 'WORLD2')

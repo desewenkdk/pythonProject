@@ -12,7 +12,11 @@ def print_hi(name, text):
 
     print("Hello world 4")
     print("Hello World 5")
-    
+
+    #Updates in local master branch
+    print("Hell World Updates on Local Master Branch ")
+
+
     #updates on main branch of GitHub
     print("Hello World Updates on Github")
 # Press the green button in the gutter to run the script.

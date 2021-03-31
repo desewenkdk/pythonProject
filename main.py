@@ -19,6 +19,9 @@ def print_hi(name, text):
 
     #updates on main branch of GitHub
     print("Hello World Updates on Github")
+    
+    #updates on main branch of GitHub
+    print("Hell World Updates 2 on Github Only ")
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('WORLD', 'WORLD2')
